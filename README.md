@@ -1,2 +1,2 @@
-# html-css
-Projetos em html e css
+# Projetos html-css
+Projetos utilizando html e css
